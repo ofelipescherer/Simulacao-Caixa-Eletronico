@@ -17,7 +17,7 @@ bancária.
 O caixa eletrônico oferece cinco opções ao cliente e, através de estatísticas, chegamos ao tempo
 médio necessário para realizar cada uma das transações possíveis:
 | Transação | Código | Tempo (s) |
-| ------ | ------ |
+| ------ | ------ | ------ |
 | Saldo | 0 | 10 |
 | Saque | 1 | 20 |
 | Aplicação | 2 | 30 | 
