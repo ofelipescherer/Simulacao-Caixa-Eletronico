@@ -16,12 +16,13 @@ cliente aguarda numa fila, para realizar uma transação no caixa eletrônico de
 bancária.
 O caixa eletrônico oferece cinco opções ao cliente e, através de estatísticas, chegamos ao tempo
 médio necessário para realizar cada uma das transações possíveis:
-Transação Código Tempo (s)
-Saldo 0 10
-Saque 1 20
-Aplicação 2 30
-Extrato Semanal 3 40
-Extrato Mensal 4 50
+| Transação | Código | Tempo (s) |
+| ------ | ------ |
+| Saldo | 0 | 10 |
+| Saque | 1 | 20 |
+| Aplicação | 2 | 30 | 
+| Extrato Semanal | 3 | 40 |
+| Extrato Mensal 4 | 50 |
 
 Sabe-se que a agência tem três caixas eletrônicos que atendem a uma única fila de clientes. À
 medida que qualquer um dos caixas fica livre, o primeiro cliente da fila o utiliza.
