@@ -4,7 +4,6 @@ from random import randint
 
 def simula():
     expedienteDoBanco = calculaExpediente() * 60 *60 #Medido em segundos
-    #mediaClientes = calculaMediaClientes()
     caixasEletronicos = calculaCaixasEletronicos()
     tempoDecorrido = 0
     totalClientes = 0
@@ -86,13 +85,6 @@ def calculaCaixasEletronicos():
         lista.append(0)
     print(lista)
     return lista    
-
-#def tentaCriarCliente(mediaClientes): #Aleatoriza a media de clientes, ou seja, a cada 10s nem sempre vai vir a media certinha
-    qntClientes = 0
-    for i in range(mediaClientes):
-        if(randint(1,2) == 1):
-            qntClientes += 1
-    return qntClientes
 
 def calculaMediaClientes():
     x = ""
