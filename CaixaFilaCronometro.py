@@ -1,4 +1,6 @@
 #Simulador que retorna o tempo médio que clientes esperam na fila para usar o caixa eletrônico
+#Trabalho feito por Felipe Scherer
+#RA- D88HJE-1
 
 from random import randint
 
@@ -18,7 +20,7 @@ def simula():
         f.write("\n")
         f.write(f'Momento {tempoDecorrido}s\n') #Escreve no relatorio.txt 
         if(tempoDecorrido <= expedienteDoBanco):
-            if(randint(1,2) == 1): #Aleatoriza a quantidade de cliente
+            if(randint(1,5) > 1): #Aleatoriza a quantidade de cliente
                 print(f"Cliente entrou no banco no tempo {tempoDecorrido}")
                 f.write(f"Cliente entrou no banco no tempo {tempoDecorrido}\n")
                 filaClientes.append(tempoDecorrido)
@@ -30,10 +32,10 @@ def simula():
                 f.write(f"Caixa {i} esta livre\n")
                 if (len(filaClientes) != 0): #Fila não está vazia
                     print(f"Cliente que chegou no horario {filaClientes[0]} está indo ao caixa {i}")
-                    f.write(f"Cliente que chegou no horario {filaClientes[0]} esta indo ao caixa {i}")
+                    f.write(f"Cliente que chegou no horario {filaClientes[0]} esta indo ao caixa {i}\n")
                     totalTempoNaFila += tempoDecorrido - filaClientes[0]
                     filaClientes.pop(0)
-                    caixasEletronicos[i] = escolheOperacao()
+                    caixasEletronicos[i] = escolheOperacao(f)
             else:
                 caixasEletronicos[i] -= 10
 
@@ -46,27 +48,32 @@ def simula():
     print(f"A quantidade de clientes que foram ao banco nessa simulação foi {totalClientes}")
     print(f"A média de espera na fila foi de {totalTempoNaFila/totalClientes}")
 
-def escolheOperacao():
+def escolheOperacao(f):
     operacao = randint(0,4)
     if(operacao == 0):
         #Saldo +10 s
         print(f'Cliente escolheu ver seu saldo que levou 10 segundos')
+        f.write('Cliente escolheu ver seu saldo que levou 10 segundos\n')
         return 10
     elif(operacao == 1):
         #Saque +20 s
         print(f'Cliente escolheu fazer um saque que levou 20 segundos')
+        f.write('Cliente escolheu fazer um saque que levou 20 segundos\n')
         return 20
     elif(operacao == 2):
         #Aplicação + 30s
         print(f'Cliente escolheu fazer uma aplicação que levou 30 segundos')
+        f.write('Cliente escolheu fazer uma aplicacao que levou 30 segundos\n')
         return 30
     elif(operacao == 3):
         #Extrato Semanal +40 s
         print(f'Cliente escolheu fazer um extrato semanal que levou 40 segundos')
+        f.write('Cliente escolheu fazer um extrato semanal que levou 40 segundos\n')
         return 40
     elif(operacao == 4):
         #Extrato Mensal + 50s
         print(f'Cliente escolheu fazer um extrato mensal que levou 50 segundos')
+        f.write('Cliente escolheu fazer um extrato mensal que levou 50 segundos\n')
         return 50
 
 def calculaCaixasEletronicos():
