@@ -48,8 +48,8 @@ def simulador():
     tempo_final = '16:00:00'
 
     
-    t1 =  dt.strptime(list_clientes[1], FMT)
-    t2 = dt.strptime('00:00:40', FMT)
+    t1 =  dt.strptime(list_clientes[1], formato_tempo)
+    t2 = dt.strptime('00:00:40', formato_tempo)
     
     tdelta = (t1- time_zero + t2).time()
     #tdelta = datetime.timedelta(hours=11, minutes=0, seconds=0) + datetime.timedelta(seconds=40)
