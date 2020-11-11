@@ -1,0 +1,3793 @@
+
+Momento 0s
+Cliente entrou no banco no tempo 0
+Caixa 0 esta livre
+Cliente que chegou no horario 0 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+Caixa 2 esta livre
+
+Momento 10s
+Caixa 1 esta livre
+Caixa 2 esta livre
+
+Momento 20s
+Cliente entrou no banco no tempo 20
+Caixa 1 esta livre
+Cliente que chegou no horario 20 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+
+Momento 30s
+Cliente entrou no banco no tempo 30
+Caixa 2 esta livre
+Cliente que chegou no horario 30 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 40s
+
+Momento 50s
+Cliente entrou no banco no tempo 50
+
+Momento 60s
+Caixa 0 esta livre
+Cliente que chegou no horario 50 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+
+Momento 70s
+Cliente entrou no banco no tempo 70
+Caixa 1 esta livre
+Cliente que chegou no horario 70 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+
+Momento 80s
+Caixa 2 esta livre
+
+Momento 90s
+Caixa 2 esta livre
+
+Momento 100s
+Caixa 1 esta livre
+Caixa 2 esta livre
+
+Momento 110s
+Cliente entrou no banco no tempo 110
+Caixa 1 esta livre
+Cliente que chegou no horario 110 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+
+Momento 120s
+Caixa 0 esta livre
+Caixa 2 esta livre
+
+Momento 130s
+Cliente entrou no banco no tempo 130
+Caixa 0 esta livre
+Cliente que chegou no horario 130 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+
+Momento 140s
+Caixa 1 esta livre
+Caixa 2 esta livre
+
+Momento 150s
+Caixa 1 esta livre
+Caixa 2 esta livre
+
+Momento 160s
+Cliente entrou no banco no tempo 160
+Caixa 1 esta livre
+Cliente que chegou no horario 160 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+
+Momento 170s
+Cliente entrou no banco no tempo 170
+Caixa 2 esta livre
+Cliente que chegou no horario 170 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 180s
+
+Momento 190s
+Cliente entrou no banco no tempo 190
+Caixa 0 esta livre
+Cliente que chegou no horario 190 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+
+Momento 200s
+Cliente entrou no banco no tempo 200
+Caixa 1 esta livre
+Cliente que chegou no horario 200 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+
+Momento 210s
+Cliente entrou no banco no tempo 210
+Caixa 0 esta livre
+Cliente que chegou no horario 210 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+
+Momento 220s
+Cliente entrou no banco no tempo 220
+Caixa 2 esta livre
+Cliente que chegou no horario 220 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 230s
+Cliente entrou no banco no tempo 230
+Caixa 0 esta livre
+Cliente que chegou no horario 230 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 240s
+Cliente entrou no banco no tempo 240
+Caixa 2 esta livre
+Cliente que chegou no horario 240 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 250s
+Caixa 0 esta livre
+
+Momento 260s
+Cliente entrou no banco no tempo 260
+Caixa 0 esta livre
+Cliente que chegou no horario 260 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 1 esta livre
+
+Momento 270s
+Cliente entrou no banco no tempo 270
+Caixa 1 esta livre
+Cliente que chegou no horario 270 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 280s
+Cliente entrou no banco no tempo 280
+
+Momento 290s
+Cliente entrou no banco no tempo 290
+
+Momento 300s
+Caixa 0 esta livre
+Cliente que chegou no horario 280 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 290 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 310s
+Cliente entrou no banco no tempo 310
+
+Momento 320s
+Cliente entrou no banco no tempo 320
+Caixa 1 esta livre
+Cliente que chegou no horario 310 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 330s
+Cliente entrou no banco no tempo 330
+Caixa 2 esta livre
+Cliente que chegou no horario 320 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 340s
+Cliente entrou no banco no tempo 340
+
+Momento 350s
+Caixa 0 esta livre
+Cliente que chegou no horario 330 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 340 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 360s
+
+Momento 370s
+Caixa 1 esta livre
+
+Momento 380s
+Caixa 0 esta livre
+Caixa 1 esta livre
+
+Momento 390s
+Cliente entrou no banco no tempo 390
+Caixa 0 esta livre
+Cliente que chegou no horario 390 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 1 esta livre
+Caixa 2 esta livre
+
+Momento 400s
+Cliente entrou no banco no tempo 400
+Caixa 1 esta livre
+Cliente que chegou no horario 400 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+
+Momento 410s
+Cliente entrou no banco no tempo 410
+Caixa 2 esta livre
+Cliente que chegou no horario 410 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 420s
+Cliente entrou no banco no tempo 420
+
+Momento 430s
+
+Momento 440s
+Cliente entrou no banco no tempo 440
+Caixa 0 esta livre
+Cliente que chegou no horario 420 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 450s
+Cliente entrou no banco no tempo 450
+Caixa 1 esta livre
+Cliente que chegou no horario 440 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 450 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 460s
+Cliente entrou no banco no tempo 460
+
+Momento 470s
+
+Momento 480s
+Cliente entrou no banco no tempo 480
+Caixa 1 esta livre
+Cliente que chegou no horario 460 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 490s
+Cliente entrou no banco no tempo 490
+Caixa 0 esta livre
+Cliente que chegou no horario 480 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 490 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 500s
+Cliente entrou no banco no tempo 500
+Caixa 1 esta livre
+Cliente que chegou no horario 500 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 510s
+Cliente entrou no banco no tempo 510
+Caixa 2 esta livre
+Cliente que chegou no horario 510 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 520s
+Cliente entrou no banco no tempo 520
+Caixa 0 esta livre
+Cliente que chegou no horario 520 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 530s
+Cliente entrou no banco no tempo 530
+
+Momento 540s
+Caixa 1 esta livre
+Cliente que chegou no horario 530 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 550s
+Cliente entrou no banco no tempo 550
+
+Momento 560s
+Cliente entrou no banco no tempo 560
+Caixa 2 esta livre
+Cliente que chegou no horario 550 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 570s
+Cliente entrou no banco no tempo 570
+Caixa 0 esta livre
+Cliente que chegou no horario 560 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 580s
+Cliente entrou no banco no tempo 580
+
+Momento 590s
+Cliente entrou no banco no tempo 590
+
+Momento 600s
+Caixa 1 esta livre
+Cliente que chegou no horario 570 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 610s
+Cliente entrou no banco no tempo 610
+Caixa 2 esta livre
+Cliente que chegou no horario 580 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 620s
+Cliente entrou no banco no tempo 620
+Caixa 1 esta livre
+Cliente que chegou no horario 590 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 630s
+Cliente entrou no banco no tempo 630
+Caixa 0 esta livre
+Cliente que chegou no horario 610 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 640s
+Cliente entrou no banco no tempo 640
+Caixa 2 esta livre
+Cliente que chegou no horario 620 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 650s
+Cliente entrou no banco no tempo 650
+
+Momento 660s
+Cliente entrou no banco no tempo 660
+
+Momento 670s
+Cliente entrou no banco no tempo 670
+Caixa 1 esta livre
+Cliente que chegou no horario 630 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 680s
+Cliente entrou no banco no tempo 680
+Caixa 0 esta livre
+Cliente que chegou no horario 640 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 650 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 690s
+Cliente entrou no banco no tempo 690
+
+Momento 700s
+Cliente entrou no banco no tempo 700
+
+Momento 710s
+Cliente entrou no banco no tempo 710
+
+Momento 720s
+Cliente entrou no banco no tempo 720
+Caixa 1 esta livre
+Cliente que chegou no horario 660 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 730s
+Cliente entrou no banco no tempo 730
+Caixa 0 esta livre
+Cliente que chegou no horario 670 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 680 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 740s
+
+Momento 750s
+Cliente entrou no banco no tempo 750
+Caixa 2 esta livre
+Cliente que chegou no horario 690 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 760s
+Cliente entrou no banco no tempo 760
+Caixa 0 esta livre
+Cliente que chegou no horario 700 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 770s
+Caixa 1 esta livre
+Cliente que chegou no horario 710 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 720 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 780s
+Cliente entrou no banco no tempo 780
+
+Momento 790s
+Caixa 0 esta livre
+Cliente que chegou no horario 730 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 800s
+Cliente entrou no banco no tempo 800
+Caixa 1 esta livre
+Cliente que chegou no horario 750 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 810s
+Caixa 0 esta livre
+Cliente que chegou no horario 760 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 780 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 820s
+Cliente entrou no banco no tempo 820
+Caixa 1 esta livre
+Cliente que chegou no horario 800 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 830s
+Cliente entrou no banco no tempo 830
+Caixa 0 esta livre
+Cliente que chegou no horario 820 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 830 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 840s
+Cliente entrou no banco no tempo 840
+
+Momento 850s
+Cliente entrou no banco no tempo 850
+
+Momento 860s
+Cliente entrou no banco no tempo 860
+Caixa 1 esta livre
+Cliente que chegou no horario 840 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 870s
+Cliente entrou no banco no tempo 870
+
+Momento 880s
+Cliente entrou no banco no tempo 880
+Caixa 2 esta livre
+Cliente que chegou no horario 850 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 890s
+Cliente entrou no banco no tempo 890
+Caixa 0 esta livre
+Cliente que chegou no horario 860 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 870 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 900s
+Cliente entrou no banco no tempo 900
+Caixa 2 esta livre
+Cliente que chegou no horario 880 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 910s
+
+Momento 920s
+Caixa 1 esta livre
+Cliente que chegou no horario 890 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 900 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 930s
+Caixa 0 esta livre
+
+Momento 940s
+Cliente entrou no banco no tempo 940
+Caixa 0 esta livre
+Cliente que chegou no horario 940 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 950s
+Cliente entrou no banco no tempo 950
+Caixa 1 esta livre
+Cliente que chegou no horario 950 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 960s
+Cliente entrou no banco no tempo 960
+Caixa 0 esta livre
+Cliente que chegou no horario 960 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 970s
+
+Momento 980s
+Cliente entrou no banco no tempo 980
+Caixa 0 esta livre
+Cliente que chegou no horario 980 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+
+Momento 990s
+Cliente entrou no banco no tempo 990
+Caixa 2 esta livre
+Cliente que chegou no horario 990 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1000s
+Cliente entrou no banco no tempo 1000
+
+Momento 1010s
+Caixa 1 esta livre
+Cliente que chegou no horario 1000 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+
+Momento 1020s
+Cliente entrou no banco no tempo 1020
+Caixa 2 esta livre
+Cliente que chegou no horario 1020 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1030s
+Caixa 0 esta livre
+
+Momento 1040s
+Caixa 0 esta livre
+
+Momento 1050s
+Cliente entrou no banco no tempo 1050
+Caixa 0 esta livre
+Cliente que chegou no horario 1050 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1060s
+Cliente entrou no banco no tempo 1060
+Caixa 1 esta livre
+Cliente que chegou no horario 1060 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1070s
+Cliente entrou no banco no tempo 1070
+Caixa 2 esta livre
+Cliente que chegou no horario 1070 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1080s
+Cliente entrou no banco no tempo 1080
+
+Momento 1090s
+Cliente entrou no banco no tempo 1090
+Caixa 1 esta livre
+Cliente que chegou no horario 1080 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1090 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1100s
+Cliente entrou no banco no tempo 1100
+Caixa 0 esta livre
+Cliente que chegou no horario 1100 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1110s
+Caixa 2 esta livre
+
+Momento 1120s
+Cliente entrou no banco no tempo 1120
+Caixa 2 esta livre
+Cliente que chegou no horario 1120 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1130s
+Cliente entrou no banco no tempo 1130
+
+Momento 1140s
+Cliente entrou no banco no tempo 1140
+
+Momento 1150s
+Cliente entrou no banco no tempo 1150
+Caixa 0 esta livre
+Cliente que chegou no horario 1130 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 1140 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1160s
+Cliente entrou no banco no tempo 1160
+Caixa 2 esta livre
+Cliente que chegou no horario 1150 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1170s
+
+Momento 1180s
+Cliente entrou no banco no tempo 1180
+
+Momento 1190s
+Cliente entrou no banco no tempo 1190
+Caixa 1 esta livre
+Cliente que chegou no horario 1160 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1200s
+Cliente entrou no banco no tempo 1200
+Caixa 0 esta livre
+Cliente que chegou no horario 1180 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1190 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1210s
+Cliente entrou no banco no tempo 1210
+
+Momento 1220s
+Cliente entrou no banco no tempo 1220
+Caixa 0 esta livre
+Cliente que chegou no horario 1200 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1230s
+Caixa 1 esta livre
+Cliente que chegou no horario 1210 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 1240s
+Cliente entrou no banco no tempo 1240
+
+Momento 1250s
+Cliente entrou no banco no tempo 1250
+Caixa 2 esta livre
+Cliente que chegou no horario 1220 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1260s
+Cliente entrou no banco no tempo 1260
+
+Momento 1270s
+Cliente entrou no banco no tempo 1270
+Caixa 0 esta livre
+Cliente que chegou no horario 1240 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1280s
+Cliente entrou no banco no tempo 1280
+
+Momento 1290s
+Caixa 1 esta livre
+Cliente que chegou no horario 1250 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1260 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1300s
+Cliente entrou no banco no tempo 1300
+
+Momento 1310s
+Cliente entrou no banco no tempo 1310
+Caixa 2 esta livre
+Cliente que chegou no horario 1270 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1320s
+Cliente entrou no banco no tempo 1320
+Caixa 0 esta livre
+Cliente que chegou no horario 1280 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1330s
+Cliente entrou no banco no tempo 1330
+
+Momento 1340s
+Cliente entrou no banco no tempo 1340
+Caixa 1 esta livre
+Cliente que chegou no horario 1300 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1350s
+Cliente entrou no banco no tempo 1350
+
+Momento 1360s
+Cliente entrou no banco no tempo 1360
+Caixa 2 esta livre
+Cliente que chegou no horario 1310 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1370s
+Cliente entrou no banco no tempo 1370
+Caixa 0 esta livre
+Cliente que chegou no horario 1320 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1380s
+Cliente entrou no banco no tempo 1380
+Caixa 1 esta livre
+Cliente que chegou no horario 1330 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1340 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 1390s
+Cliente entrou no banco no tempo 1390
+Caixa 0 esta livre
+Cliente que chegou no horario 1350 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 1400s
+Cliente entrou no banco no tempo 1400
+
+Momento 1410s
+Cliente entrou no banco no tempo 1410
+
+Momento 1420s
+
+Momento 1430s
+Cliente entrou no banco no tempo 1430
+
+Momento 1440s
+Cliente entrou no banco no tempo 1440
+Caixa 1 esta livre
+Cliente que chegou no horario 1360 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1370 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1450s
+Cliente entrou no banco no tempo 1450
+Caixa 0 esta livre
+Cliente que chegou no horario 1380 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1460s
+Cliente entrou no banco no tempo 1460
+
+Momento 1470s
+Caixa 1 esta livre
+Cliente que chegou no horario 1390 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1400 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1480s
+Cliente entrou no banco no tempo 1480
+Caixa 0 esta livre
+Cliente que chegou no horario 1410 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 1490s
+Cliente entrou no banco no tempo 1490
+Caixa 2 esta livre
+Cliente que chegou no horario 1430 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1500s
+Cliente entrou no banco no tempo 1500
+
+Momento 1510s
+Cliente entrou no banco no tempo 1510
+
+Momento 1520s
+Cliente entrou no banco no tempo 1520
+Caixa 1 esta livre
+Cliente que chegou no horario 1440 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1530s
+Cliente entrou no banco no tempo 1530
+
+Momento 1540s
+Cliente entrou no banco no tempo 1540
+Caixa 0 esta livre
+Cliente que chegou no horario 1450 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1460 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1550s
+Cliente entrou no banco no tempo 1550
+
+Momento 1560s
+Cliente entrou no banco no tempo 1560
+Caixa 1 esta livre
+Cliente que chegou no horario 1480 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1490 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1570s
+Cliente entrou no banco no tempo 1570
+
+Momento 1580s
+Cliente entrou no banco no tempo 1580
+Caixa 0 esta livre
+Cliente que chegou no horario 1500 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1590s
+Caixa 1 esta livre
+Cliente que chegou no horario 1510 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1600s
+Caixa 2 esta livre
+Cliente que chegou no horario 1520 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1610s
+Cliente entrou no banco no tempo 1610
+Caixa 1 esta livre
+Cliente que chegou no horario 1530 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1620s
+Cliente entrou no banco no tempo 1620
+
+Momento 1630s
+Cliente entrou no banco no tempo 1630
+Caixa 0 esta livre
+Cliente que chegou no horario 1540 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1550 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 1640s
+Cliente entrou no banco no tempo 1640
+Caixa 1 esta livre
+Cliente que chegou no horario 1560 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1650s
+
+Momento 1660s
+Cliente entrou no banco no tempo 1660
+Caixa 0 esta livre
+Cliente que chegou no horario 1570 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 1670s
+Cliente entrou no banco no tempo 1670
+Caixa 1 esta livre
+Cliente que chegou no horario 1580 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 1680s
+Cliente entrou no banco no tempo 1680
+
+Momento 1690s
+Cliente entrou no banco no tempo 1690
+Caixa 2 esta livre
+Cliente que chegou no horario 1610 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1700s
+Cliente entrou no banco no tempo 1700
+
+Momento 1710s
+
+Momento 1720s
+Cliente entrou no banco no tempo 1720
+Caixa 0 esta livre
+Cliente que chegou no horario 1620 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1630 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1730s
+Cliente entrou no banco no tempo 1730
+Caixa 1 esta livre
+Cliente que chegou no horario 1640 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1740s
+Caixa 2 esta livre
+Cliente que chegou no horario 1660 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1750s
+Cliente entrou no banco no tempo 1750
+
+Momento 1760s
+Cliente entrou no banco no tempo 1760
+Caixa 0 esta livre
+Cliente que chegou no horario 1670 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1770s
+Cliente entrou no banco no tempo 1770
+Caixa 1 esta livre
+Cliente que chegou no horario 1680 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1690 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1780s
+Cliente entrou no banco no tempo 1780
+
+Momento 1790s
+Cliente entrou no banco no tempo 1790
+Caixa 2 esta livre
+Cliente que chegou no horario 1700 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1800s
+Caixa 0 esta livre
+Cliente que chegou no horario 1720 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1810s
+Cliente entrou no banco no tempo 1810
+
+Momento 1820s
+Caixa 0 esta livre
+Cliente que chegou no horario 1730 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1750 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 1830s
+Cliente entrou no banco no tempo 1830
+Caixa 1 esta livre
+Cliente que chegou no horario 1760 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1840s
+Cliente entrou no banco no tempo 1840
+
+Momento 1850s
+Cliente entrou no banco no tempo 1850
+
+Momento 1860s
+Cliente entrou no banco no tempo 1860
+
+Momento 1870s
+Cliente entrou no banco no tempo 1870
+Caixa 1 esta livre
+Cliente que chegou no horario 1770 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1880s
+Cliente entrou no banco no tempo 1880
+Caixa 0 esta livre
+Cliente que chegou no horario 1780 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1790 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1890s
+Cliente entrou no banco no tempo 1890
+Caixa 1 esta livre
+Cliente que chegou no horario 1810 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 1900s
+Cliente entrou no banco no tempo 1900
+
+Momento 1910s
+Cliente entrou no banco no tempo 1910
+Caixa 0 esta livre
+Cliente que chegou no horario 1830 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 1920s
+Cliente entrou no banco no tempo 1920
+
+Momento 1930s
+Cliente entrou no banco no tempo 1930
+Caixa 1 esta livre
+Cliente que chegou no horario 1840 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1850 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1940s
+Cliente entrou no banco no tempo 1940
+Caixa 0 esta livre
+Cliente que chegou no horario 1860 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 1950s
+Cliente entrou no banco no tempo 1950
+
+Momento 1960s
+Cliente entrou no banco no tempo 1960
+Caixa 0 esta livre
+Cliente que chegou no horario 1870 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1970s
+Cliente entrou no banco no tempo 1970
+Caixa 1 esta livre
+Cliente que chegou no horario 1880 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1980s
+Cliente entrou no banco no tempo 1980
+Caixa 2 esta livre
+Cliente que chegou no horario 1890 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 1990s
+Cliente entrou no banco no tempo 1990
+
+Momento 2000s
+Cliente entrou no banco no tempo 2000
+
+Momento 2010s
+Cliente entrou no banco no tempo 2010
+Caixa 0 esta livre
+Cliente que chegou no horario 1900 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 2020s
+Caixa 1 esta livre
+Cliente que chegou no horario 1910 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2030s
+Cliente entrou no banco no tempo 2030
+Caixa 0 esta livre
+Cliente que chegou no horario 1920 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 1930 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2040s
+
+Momento 2050s
+Cliente entrou no banco no tempo 2050
+
+Momento 2060s
+Cliente entrou no banco no tempo 2060
+Caixa 1 esta livre
+Cliente que chegou no horario 1940 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2070s
+Cliente entrou no banco no tempo 2070
+Caixa 2 esta livre
+Cliente que chegou no horario 1950 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2080s
+
+Momento 2090s
+Cliente entrou no banco no tempo 2090
+Caixa 0 esta livre
+Cliente que chegou no horario 1960 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2100s
+Cliente entrou no banco no tempo 2100
+
+Momento 2110s
+Cliente entrou no banco no tempo 2110
+Caixa 1 esta livre
+Cliente que chegou no horario 1970 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2120s
+Cliente entrou no banco no tempo 2120
+Caixa 2 esta livre
+Cliente que chegou no horario 1980 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2130s
+Caixa 0 esta livre
+Cliente que chegou no horario 1990 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2140s
+Cliente entrou no banco no tempo 2140
+Caixa 1 esta livre
+Cliente que chegou no horario 2000 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2150s
+Cliente entrou no banco no tempo 2150
+Caixa 2 esta livre
+Cliente que chegou no horario 2010 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2160s
+Cliente entrou no banco no tempo 2160
+
+Momento 2170s
+
+Momento 2180s
+Cliente entrou no banco no tempo 2180
+
+Momento 2190s
+Cliente entrou no banco no tempo 2190
+Caixa 0 esta livre
+Cliente que chegou no horario 2030 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2050 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2200s
+Caixa 1 esta livre
+Cliente que chegou no horario 2060 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2210s
+Cliente entrou no banco no tempo 2210
+
+Momento 2220s
+Cliente entrou no banco no tempo 2220
+
+Momento 2230s
+Cliente entrou no banco no tempo 2230
+Caixa 2 esta livre
+Cliente que chegou no horario 2070 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 2240s
+Cliente entrou no banco no tempo 2240
+Caixa 0 esta livre
+Cliente que chegou no horario 2090 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2250s
+Caixa 1 esta livre
+Cliente que chegou no horario 2100 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2110 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2260s
+
+Momento 2270s
+Cliente entrou no banco no tempo 2270
+
+Momento 2280s
+Cliente entrou no banco no tempo 2280
+Caixa 2 esta livre
+Cliente que chegou no horario 2120 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2290s
+Cliente entrou no banco no tempo 2290
+Caixa 0 esta livre
+Cliente que chegou no horario 2140 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 2150 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2300s
+Cliente entrou no banco no tempo 2300
+
+Momento 2310s
+Cliente entrou no banco no tempo 2310
+Caixa 0 esta livre
+Cliente que chegou no horario 2160 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2320s
+Cliente entrou no banco no tempo 2320
+
+Momento 2330s
+Cliente entrou no banco no tempo 2330
+
+Momento 2340s
+Caixa 0 esta livre
+Cliente que chegou no horario 2180 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 2190 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2210 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2350s
+Cliente entrou no banco no tempo 2350
+
+Momento 2360s
+
+Momento 2370s
+Cliente entrou no banco no tempo 2370
+
+Momento 2380s
+Cliente entrou no banco no tempo 2380
+
+Momento 2390s
+Cliente entrou no banco no tempo 2390
+Caixa 0 esta livre
+Cliente que chegou no horario 2220 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 2230 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2240 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2400s
+Cliente entrou no banco no tempo 2400
+
+Momento 2410s
+
+Momento 2420s
+Cliente entrou no banco no tempo 2420
+Caixa 1 esta livre
+Cliente que chegou no horario 2270 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2280 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2430s
+Caixa 0 esta livre
+Cliente que chegou no horario 2290 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2440s
+Cliente entrou no banco no tempo 2440
+
+Momento 2450s
+Cliente entrou no banco no tempo 2450
+
+Momento 2460s
+Cliente entrou no banco no tempo 2460
+Caixa 2 esta livre
+Cliente que chegou no horario 2300 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2470s
+Cliente entrou no banco no tempo 2470
+Caixa 1 esta livre
+Cliente que chegou no horario 2310 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2480s
+Cliente entrou no banco no tempo 2480
+
+Momento 2490s
+Caixa 0 esta livre
+Cliente que chegou no horario 2320 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2500s
+Cliente entrou no banco no tempo 2500
+
+Momento 2510s
+Cliente entrou no banco no tempo 2510
+Caixa 1 esta livre
+Cliente que chegou no horario 2330 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2350 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2520s
+Cliente entrou no banco no tempo 2520
+Caixa 0 esta livre
+Cliente que chegou no horario 2370 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2530s
+Caixa 1 esta livre
+Cliente que chegou no horario 2380 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 2540s
+Cliente entrou no banco no tempo 2540
+
+Momento 2550s
+Caixa 1 esta livre
+Cliente que chegou no horario 2390 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2560s
+Caixa 2 esta livre
+Cliente que chegou no horario 2400 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2570s
+Caixa 0 esta livre
+Cliente que chegou no horario 2420 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2580s
+Cliente entrou no banco no tempo 2580
+
+Momento 2590s
+
+Momento 2600s
+
+Momento 2610s
+Cliente entrou no banco no tempo 2610
+Caixa 1 esta livre
+Cliente que chegou no horario 2440 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2620s
+Cliente entrou no banco no tempo 2620
+Caixa 2 esta livre
+Cliente que chegou no horario 2450 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 2630s
+Cliente entrou no banco no tempo 2630
+Caixa 0 esta livre
+Cliente que chegou no horario 2460 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2640s
+Caixa 2 esta livre
+Cliente que chegou no horario 2470 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2650s
+Cliente entrou no banco no tempo 2650
+
+Momento 2660s
+Cliente entrou no banco no tempo 2660
+
+Momento 2670s
+Cliente entrou no banco no tempo 2670
+Caixa 1 esta livre
+Cliente que chegou no horario 2480 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2500 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2680s
+Cliente entrou no banco no tempo 2680
+Caixa 0 esta livre
+Cliente que chegou no horario 2510 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2690s
+Cliente entrou no banco no tempo 2690
+
+Momento 2700s
+Cliente entrou no banco no tempo 2700
+
+Momento 2710s
+Cliente entrou no banco no tempo 2710
+
+Momento 2720s
+Cliente entrou no banco no tempo 2720
+Caixa 0 esta livre
+Cliente que chegou no horario 2520 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 2540 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2730s
+Cliente entrou no banco no tempo 2730
+Caixa 2 esta livre
+Cliente que chegou no horario 2580 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2740s
+Cliente entrou no banco no tempo 2740
+
+Momento 2750s
+Caixa 0 esta livre
+Cliente que chegou no horario 2610 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2760s
+Cliente entrou no banco no tempo 2760
+Caixa 1 esta livre
+Cliente que chegou no horario 2620 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2630 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2770s
+Cliente entrou no banco no tempo 2770
+
+Momento 2780s
+Cliente entrou no banco no tempo 2780
+
+Momento 2790s
+Cliente entrou no banco no tempo 2790
+
+Momento 2800s
+Cliente entrou no banco no tempo 2800
+Caixa 0 esta livre
+Cliente que chegou no horario 2650 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 2660 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2810s
+Cliente entrou no banco no tempo 2810
+Caixa 2 esta livre
+Cliente que chegou no horario 2670 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 2820s
+Cliente entrou no banco no tempo 2820
+Caixa 0 esta livre
+Cliente que chegou no horario 2680 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2830s
+
+Momento 2840s
+Cliente entrou no banco no tempo 2840
+
+Momento 2850s
+Caixa 1 esta livre
+Cliente que chegou no horario 2690 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2860s
+Cliente entrou no banco no tempo 2860
+
+Momento 2870s
+Cliente entrou no banco no tempo 2870
+Caixa 0 esta livre
+Cliente que chegou no horario 2700 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2710 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 2880s
+Caixa 1 esta livre
+Cliente que chegou no horario 2720 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 2890s
+Cliente entrou no banco no tempo 2890
+Caixa 2 esta livre
+Cliente que chegou no horario 2730 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 2900s
+Cliente entrou no banco no tempo 2900
+Caixa 1 esta livre
+Cliente que chegou no horario 2740 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2910s
+Cliente entrou no banco no tempo 2910
+Caixa 0 esta livre
+Cliente que chegou no horario 2760 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2920s
+Cliente entrou no banco no tempo 2920
+
+Momento 2930s
+Cliente entrou no banco no tempo 2930
+Caixa 1 esta livre
+Cliente que chegou no horario 2770 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2940s
+Caixa 2 esta livre
+Cliente que chegou no horario 2780 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2950s
+Caixa 0 esta livre
+Cliente que chegou no horario 2790 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2960s
+Cliente entrou no banco no tempo 2960
+Caixa 1 esta livre
+Cliente que chegou no horario 2800 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 2970s
+Cliente entrou no banco no tempo 2970
+Caixa 2 esta livre
+Cliente que chegou no horario 2810 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 2980s
+Cliente entrou no banco no tempo 2980
+Caixa 0 esta livre
+Cliente que chegou no horario 2820 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 2990s
+Cliente entrou no banco no tempo 2990
+Caixa 2 esta livre
+Cliente que chegou no horario 2840 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3000s
+Cliente entrou no banco no tempo 3000
+Caixa 1 esta livre
+Cliente que chegou no horario 2860 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3010s
+Caixa 0 esta livre
+Cliente que chegou no horario 2870 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3020s
+
+Momento 3030s
+Cliente entrou no banco no tempo 3030
+Caixa 0 esta livre
+Cliente que chegou no horario 2890 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2900 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3040s
+Cliente entrou no banco no tempo 3040
+
+Momento 3050s
+Cliente entrou no banco no tempo 3050
+Caixa 1 esta livre
+Cliente que chegou no horario 2910 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3060s
+Cliente entrou no banco no tempo 3060
+Caixa 0 esta livre
+Cliente que chegou no horario 2920 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2930 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3070s
+Cliente entrou no banco no tempo 3070
+Caixa 1 esta livre
+Cliente que chegou no horario 2960 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3080s
+
+Momento 3090s
+Cliente entrou no banco no tempo 3090
+
+Momento 3100s
+Cliente entrou no banco no tempo 3100
+Caixa 0 esta livre
+Cliente que chegou no horario 2970 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3110s
+Cliente entrou no banco no tempo 3110
+Caixa 1 esta livre
+Cliente que chegou no horario 2980 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 2990 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 3120s
+
+Momento 3130s
+Cliente entrou no banco no tempo 3130
+Caixa 1 esta livre
+Cliente que chegou no horario 3000 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3140s
+Caixa 0 esta livre
+Cliente que chegou no horario 3030 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3150s
+Cliente entrou no banco no tempo 3150
+
+Momento 3160s
+Cliente entrou no banco no tempo 3160
+Caixa 1 esta livre
+Cliente que chegou no horario 3040 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3170s
+Cliente entrou no banco no tempo 3170
+Caixa 2 esta livre
+Cliente que chegou no horario 3050 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 3180s
+Cliente entrou no banco no tempo 3180
+Caixa 0 esta livre
+Cliente que chegou no horario 3060 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 3190s
+Cliente entrou no banco no tempo 3190
+
+Momento 3200s
+Cliente entrou no banco no tempo 3200
+Caixa 1 esta livre
+Cliente que chegou no horario 3070 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3210s
+Cliente entrou no banco no tempo 3210
+
+Momento 3220s
+Cliente entrou no banco no tempo 3220
+Caixa 1 esta livre
+Cliente que chegou no horario 3090 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3230s
+Cliente entrou no banco no tempo 3230
+Caixa 2 esta livre
+Cliente que chegou no horario 3100 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 3240s
+Cliente entrou no banco no tempo 3240
+Caixa 0 esta livre
+Cliente que chegou no horario 3110 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 3250s
+Cliente entrou no banco no tempo 3250
+Caixa 1 esta livre
+Cliente que chegou no horario 3130 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3260s
+Cliente entrou no banco no tempo 3260
+
+Momento 3270s
+
+Momento 3280s
+Cliente entrou no banco no tempo 3280
+Caixa 1 esta livre
+Cliente que chegou no horario 3150 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3290s
+Cliente entrou no banco no tempo 3290
+Caixa 2 esta livre
+Cliente que chegou no horario 3160 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 3300s
+Caixa 0 esta livre
+Cliente que chegou no horario 3170 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3310s
+Cliente entrou no banco no tempo 3310
+
+Momento 3320s
+Cliente entrou no banco no tempo 3320
+
+Momento 3330s
+Cliente entrou no banco no tempo 3330
+Caixa 0 esta livre
+Cliente que chegou no horario 3180 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 3190 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3340s
+
+Momento 3350s
+Caixa 0 esta livre
+Cliente que chegou no horario 3200 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3210 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 3360s
+Cliente entrou no banco no tempo 3360
+
+Momento 3370s
+
+Momento 3380s
+Cliente entrou no banco no tempo 3380
+Caixa 0 esta livre
+Cliente que chegou no horario 3220 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 3230 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3390s
+
+Momento 3400s
+Cliente entrou no banco no tempo 3400
+Caixa 1 esta livre
+Cliente que chegou no horario 3240 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3410s
+Cliente entrou no banco no tempo 3410
+Caixa 0 esta livre
+Cliente que chegou no horario 3250 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3260 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3420s
+Cliente entrou no banco no tempo 3420
+
+Momento 3430s
+Cliente entrou no banco no tempo 3430
+
+Momento 3440s
+Cliente entrou no banco no tempo 3440
+Caixa 1 esta livre
+Cliente que chegou no horario 3280 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3450s
+Cliente entrou no banco no tempo 3450
+Caixa 2 esta livre
+Cliente que chegou no horario 3290 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3460s
+Cliente entrou no banco no tempo 3460
+Caixa 0 esta livre
+Cliente que chegou no horario 3310 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3470s
+Cliente entrou no banco no tempo 3470
+Caixa 2 esta livre
+Cliente que chegou no horario 3320 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3480s
+Cliente entrou no banco no tempo 3480
+
+Momento 3490s
+Cliente entrou no banco no tempo 3490
+Caixa 1 esta livre
+Cliente que chegou no horario 3330 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3500s
+Cliente entrou no banco no tempo 3500
+Caixa 0 esta livre
+Cliente que chegou no horario 3360 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3510s
+Cliente entrou no banco no tempo 3510
+
+Momento 3520s
+Cliente entrou no banco no tempo 3520
+Caixa 2 esta livre
+Cliente que chegou no horario 3380 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3530s
+Cliente entrou no banco no tempo 3530
+
+Momento 3540s
+Caixa 0 esta livre
+Cliente que chegou no horario 3400 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 3410 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3550s
+Cliente entrou no banco no tempo 3550
+
+Momento 3560s
+Cliente entrou no banco no tempo 3560
+Caixa 1 esta livre
+Cliente que chegou no horario 3420 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3430 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3570s
+Cliente entrou no banco no tempo 3570
+
+Momento 3580s
+Cliente entrou no banco no tempo 3580
+Caixa 0 esta livre
+Cliente que chegou no horario 3440 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3450 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3590s
+Cliente entrou no banco no tempo 3590
+
+Momento 3600s
+Cliente entrou no banco no tempo 3600
+Caixa 2 esta livre
+Cliente que chegou no horario 3460 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3610s
+Caixa 0 esta livre
+Cliente que chegou no horario 3470 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3620s
+Cliente entrou no banco no tempo 3620
+Caixa 1 esta livre
+Cliente que chegou no horario 3480 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3630s
+Cliente entrou no banco no tempo 3630
+Caixa 2 esta livre
+Cliente que chegou no horario 3490 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3640s
+Cliente entrou no banco no tempo 3640
+Caixa 1 esta livre
+Cliente que chegou no horario 3500 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3650s
+Cliente entrou no banco no tempo 3650
+Caixa 0 esta livre
+Cliente que chegou no horario 3510 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3520 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3660s
+Cliente entrou no banco no tempo 3660
+
+Momento 3670s
+Cliente entrou no banco no tempo 3670
+
+Momento 3680s
+Cliente entrou no banco no tempo 3680
+Caixa 0 esta livre
+Cliente que chegou no horario 3530 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3690s
+Cliente entrou no banco no tempo 3690
+Caixa 1 esta livre
+Cliente que chegou no horario 3550 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3560 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3700s
+Cliente entrou no banco no tempo 3700
+
+Momento 3710s
+
+Momento 3720s
+Caixa 0 esta livre
+Cliente que chegou no horario 3570 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3730s
+Cliente entrou no banco no tempo 3730
+
+Momento 3740s
+Caixa 1 esta livre
+Cliente que chegou no horario 3580 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3590 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3750s
+Cliente entrou no banco no tempo 3750
+Caixa 0 esta livre
+Cliente que chegou no horario 3600 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3760s
+Cliente entrou no banco no tempo 3760
+Caixa 1 esta livre
+Cliente que chegou no horario 3620 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3770s
+Cliente entrou no banco no tempo 3770
+Caixa 0 esta livre
+Cliente que chegou no horario 3630 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3780s
+Caixa 2 esta livre
+Cliente que chegou no horario 3640 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3790s
+Cliente entrou no banco no tempo 3790
+
+Momento 3800s
+Cliente entrou no banco no tempo 3800
+Caixa 2 esta livre
+Cliente que chegou no horario 3650 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 3810s
+Cliente entrou no banco no tempo 3810
+Caixa 0 esta livre
+Cliente que chegou no horario 3660 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 3670 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3820s
+Cliente entrou no banco no tempo 3820
+Caixa 2 esta livre
+Cliente que chegou no horario 3680 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3830s
+Cliente entrou no banco no tempo 3830
+
+Momento 3840s
+Cliente entrou no banco no tempo 3840
+
+Momento 3850s
+Cliente entrou no banco no tempo 3850
+Caixa 1 esta livre
+Cliente que chegou no horario 3690 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3860s
+Cliente entrou no banco no tempo 3860
+Caixa 2 esta livre
+Cliente que chegou no horario 3700 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3870s
+Cliente entrou no banco no tempo 3870
+Caixa 0 esta livre
+Cliente que chegou no horario 3730 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3880s
+Cliente entrou no banco no tempo 3880
+
+Momento 3890s
+Cliente entrou no banco no tempo 3890
+Caixa 1 esta livre
+Cliente que chegou no horario 3750 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3760 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 3900s
+Cliente entrou no banco no tempo 3900
+Caixa 0 esta livre
+Cliente que chegou no horario 3770 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3910s
+Cliente entrou no banco no tempo 3910
+Caixa 1 esta livre
+Cliente que chegou no horario 3790 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 3920s
+
+Momento 3930s
+Cliente entrou no banco no tempo 3930
+
+Momento 3940s
+Cliente entrou no banco no tempo 3940
+
+Momento 3950s
+Caixa 0 esta livre
+Cliente que chegou no horario 3800 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 3810 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3820 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 3960s
+
+Momento 3970s
+
+Momento 3980s
+Cliente entrou no banco no tempo 3980
+Caixa 2 esta livre
+Cliente que chegou no horario 3830 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 3990s
+Cliente entrou no banco no tempo 3990
+Caixa 0 esta livre
+Cliente que chegou no horario 3840 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 3850 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4000s
+Cliente entrou no banco no tempo 4000
+
+Momento 4010s
+Cliente entrou no banco no tempo 4010
+
+Momento 4020s
+Caixa 1 esta livre
+Cliente que chegou no horario 3860 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4030s
+Cliente entrou no banco no tempo 4030
+Caixa 2 esta livre
+Cliente que chegou no horario 3870 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4040s
+Cliente entrou no banco no tempo 4040
+Caixa 0 esta livre
+Cliente que chegou no horario 3880 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4050s
+
+Momento 4060s
+Cliente entrou no banco no tempo 4060
+Caixa 1 esta livre
+Cliente que chegou no horario 3890 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 3900 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4070s
+Cliente entrou no banco no tempo 4070
+
+Momento 4080s
+Cliente entrou no banco no tempo 4080
+
+Momento 4090s
+Cliente entrou no banco no tempo 4090
+Caixa 0 esta livre
+Cliente que chegou no horario 3910 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4100s
+Cliente entrou no banco no tempo 4100
+
+Momento 4110s
+Cliente entrou no banco no tempo 4110
+Caixa 2 esta livre
+Cliente que chegou no horario 3930 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4120s
+Cliente entrou no banco no tempo 4120
+Caixa 0 esta livre
+Cliente que chegou no horario 3940 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 3980 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4130s
+
+Momento 4140s
+Cliente entrou no banco no tempo 4140
+Caixa 0 esta livre
+Cliente que chegou no horario 3990 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4150s
+Cliente entrou no banco no tempo 4150
+
+Momento 4160s
+Cliente entrou no banco no tempo 4160
+
+Momento 4170s
+Caixa 2 esta livre
+Cliente que chegou no horario 4000 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4180s
+Cliente entrou no banco no tempo 4180
+Caixa 1 esta livre
+Cliente que chegou no horario 4010 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4190s
+Cliente entrou no banco no tempo 4190
+Caixa 0 esta livre
+Cliente que chegou no horario 4030 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 4200s
+Cliente entrou no banco no tempo 4200
+
+Momento 4210s
+Cliente entrou no banco no tempo 4210
+Caixa 0 esta livre
+Cliente que chegou no horario 4040 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4220s
+Cliente entrou no banco no tempo 4220
+Caixa 1 esta livre
+Cliente que chegou no horario 4060 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4070 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4230s
+Cliente entrou no banco no tempo 4230
+
+Momento 4240s
+Cliente entrou no banco no tempo 4240
+
+Momento 4250s
+Cliente entrou no banco no tempo 4250
+Caixa 0 esta livre
+Cliente que chegou no horario 4080 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 4260s
+Caixa 2 esta livre
+Cliente que chegou no horario 4090 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4270s
+Caixa 0 esta livre
+Cliente que chegou no horario 4100 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4280s
+Cliente entrou no banco no tempo 4280
+Caixa 1 esta livre
+Cliente que chegou no horario 4110 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4290s
+Cliente entrou no banco no tempo 4290
+
+Momento 4300s
+Cliente entrou no banco no tempo 4300
+Caixa 2 esta livre
+Cliente que chegou no horario 4120 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4310s
+Cliente entrou no banco no tempo 4310
+
+Momento 4320s
+Cliente entrou no banco no tempo 4320
+Caixa 0 esta livre
+Cliente que chegou no horario 4140 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4330s
+Cliente entrou no banco no tempo 4330
+Caixa 1 esta livre
+Cliente que chegou no horario 4150 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4340s
+Cliente entrou no banco no tempo 4340
+
+Momento 4350s
+Cliente entrou no banco no tempo 4350
+Caixa 2 esta livre
+Cliente que chegou no horario 4160 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4360s
+Cliente entrou no banco no tempo 4360
+
+Momento 4370s
+Cliente entrou no banco no tempo 4370
+Caixa 0 esta livre
+Cliente que chegou no horario 4180 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 4190 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4380s
+Cliente entrou no banco no tempo 4380
+
+Momento 4390s
+Cliente entrou no banco no tempo 4390
+Caixa 2 esta livre
+Cliente que chegou no horario 4200 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4400s
+Caixa 0 esta livre
+Cliente que chegou no horario 4210 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4410s
+Cliente entrou no banco no tempo 4410
+
+Momento 4420s
+Cliente entrou no banco no tempo 4420
+Caixa 2 esta livre
+Cliente que chegou no horario 4220 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 4430s
+Cliente entrou no banco no tempo 4430
+Caixa 1 esta livre
+Cliente que chegou no horario 4230 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4440s
+Cliente entrou no banco no tempo 4440
+Caixa 2 esta livre
+Cliente que chegou no horario 4240 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4450s
+
+Momento 4460s
+Cliente entrou no banco no tempo 4460
+Caixa 0 esta livre
+Cliente que chegou no horario 4250 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4470s
+Caixa 2 esta livre
+Cliente que chegou no horario 4280 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4480s
+Cliente entrou no banco no tempo 4480
+Caixa 1 esta livre
+Cliente que chegou no horario 4290 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4490s
+Cliente entrou no banco no tempo 4490
+
+Momento 4500s
+Cliente entrou no banco no tempo 4500
+Caixa 0 esta livre
+Cliente que chegou no horario 4300 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4510s
+Cliente entrou no banco no tempo 4510
+
+Momento 4520s
+Cliente entrou no banco no tempo 4520
+Caixa 2 esta livre
+Cliente que chegou no horario 4310 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4530s
+Cliente entrou no banco no tempo 4530
+Caixa 1 esta livre
+Cliente que chegou no horario 4320 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4540s
+Cliente entrou no banco no tempo 4540
+
+Momento 4550s
+
+Momento 4560s
+Cliente entrou no banco no tempo 4560
+Caixa 0 esta livre
+Cliente que chegou no horario 4330 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 4340 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4350 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4570s
+Cliente entrou no banco no tempo 4570
+
+Momento 4580s
+Cliente entrou no banco no tempo 4580
+Caixa 1 esta livre
+Cliente que chegou no horario 4360 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4590s
+Cliente entrou no banco no tempo 4590
+Caixa 2 esta livre
+Cliente que chegou no horario 4370 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4600s
+Cliente entrou no banco no tempo 4600
+
+Momento 4610s
+Cliente entrou no banco no tempo 4610
+Caixa 0 esta livre
+Cliente que chegou no horario 4380 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4620s
+
+Momento 4630s
+Cliente entrou no banco no tempo 4630
+Caixa 1 esta livre
+Cliente que chegou no horario 4390 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4640s
+Caixa 0 esta livre
+Cliente que chegou no horario 4410 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4420 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4650s
+
+Momento 4660s
+
+Momento 4670s
+Cliente entrou no banco no tempo 4670
+
+Momento 4680s
+Cliente entrou no banco no tempo 4680
+Caixa 0 esta livre
+Cliente que chegou no horario 4430 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4690s
+Cliente entrou no banco no tempo 4690
+Caixa 1 esta livre
+Cliente que chegou no horario 4440 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4700s
+Cliente entrou no banco no tempo 4700
+Caixa 2 esta livre
+Cliente que chegou no horario 4460 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4710s
+
+Momento 4720s
+Cliente entrou no banco no tempo 4720
+Caixa 1 esta livre
+Cliente que chegou no horario 4480 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4730s
+Cliente entrou no banco no tempo 4730
+Caixa 0 esta livre
+Cliente que chegou no horario 4490 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4740s
+Cliente entrou no banco no tempo 4740
+
+Momento 4750s
+Cliente entrou no banco no tempo 4750
+Caixa 1 esta livre
+Cliente que chegou no horario 4500 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4510 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4760s
+Cliente entrou no banco no tempo 4760
+
+Momento 4770s
+Cliente entrou no banco no tempo 4770
+Caixa 0 esta livre
+Cliente que chegou no horario 4520 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 4530 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4780s
+Cliente entrou no banco no tempo 4780
+Caixa 2 esta livre
+Cliente que chegou no horario 4540 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 4790s
+Cliente entrou no banco no tempo 4790
+
+Momento 4800s
+Cliente entrou no banco no tempo 4800
+Caixa 1 esta livre
+Cliente que chegou no horario 4560 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4570 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4810s
+Cliente entrou no banco no tempo 4810
+
+Momento 4820s
+Cliente entrou no banco no tempo 4820
+Caixa 0 esta livre
+Cliente que chegou no horario 4580 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4830s
+Cliente entrou no banco no tempo 4830
+Caixa 1 esta livre
+Cliente que chegou no horario 4590 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4840s
+Cliente entrou no banco no tempo 4840
+Caixa 2 esta livre
+Cliente que chegou no horario 4600 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 4850s
+
+Momento 4860s
+Cliente entrou no banco no tempo 4860
+
+Momento 4870s
+
+Momento 4880s
+Cliente entrou no banco no tempo 4880
+Caixa 0 esta livre
+Cliente que chegou no horario 4610 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4630 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 4890s
+Cliente entrou no banco no tempo 4890
+Caixa 1 esta livre
+Cliente que chegou no horario 4670 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4900s
+Cliente entrou no banco no tempo 4900
+
+Momento 4910s
+Cliente entrou no banco no tempo 4910
+Caixa 2 esta livre
+Cliente que chegou no horario 4680 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4920s
+Cliente entrou no banco no tempo 4920
+
+Momento 4930s
+Cliente entrou no banco no tempo 4930
+Caixa 0 esta livre
+Cliente que chegou no horario 4690 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4940s
+
+Momento 4950s
+Cliente entrou no banco no tempo 4950
+Caixa 1 esta livre
+Cliente que chegou no horario 4700 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 4960s
+Cliente entrou no banco no tempo 4960
+Caixa 2 esta livre
+Cliente que chegou no horario 4720 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 4970s
+
+Momento 4980s
+Cliente entrou no banco no tempo 4980
+
+Momento 4990s
+Caixa 0 esta livre
+Cliente que chegou no horario 4730 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5000s
+Cliente entrou no banco no tempo 5000
+
+Momento 5010s
+Cliente entrou no banco no tempo 5010
+Caixa 1 esta livre
+Cliente que chegou no horario 4740 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4750 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5020s
+
+Momento 5030s
+Caixa 2 esta livre
+Cliente que chegou no horario 4760 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5040s
+Cliente entrou no banco no tempo 5040
+
+Momento 5050s
+Caixa 0 esta livre
+Cliente que chegou no horario 4770 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5060s
+Cliente entrou no banco no tempo 5060
+Caixa 1 esta livre
+Cliente que chegou no horario 4780 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5070s
+Caixa 0 esta livre
+Cliente que chegou no horario 4790 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5080s
+Cliente entrou no banco no tempo 5080
+
+Momento 5090s
+Cliente entrou no banco no tempo 5090
+Caixa 0 esta livre
+Cliente que chegou no horario 4800 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4810 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5100s
+Cliente entrou no banco no tempo 5100
+
+Momento 5110s
+
+Momento 5120s
+Cliente entrou no banco no tempo 5120
+Caixa 1 esta livre
+Cliente que chegou no horario 4820 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5130s
+Cliente entrou no banco no tempo 5130
+
+Momento 5140s
+Cliente entrou no banco no tempo 5140
+Caixa 2 esta livre
+Cliente que chegou no horario 4830 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5150s
+Caixa 0 esta livre
+Cliente que chegou no horario 4840 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 4860 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5160s
+Cliente entrou no banco no tempo 5160
+
+Momento 5170s
+Cliente entrou no banco no tempo 5170
+
+Momento 5180s
+Caixa 0 esta livre
+Cliente que chegou no horario 4880 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 4890 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5190s
+Cliente entrou no banco no tempo 5190
+
+Momento 5200s
+Cliente entrou no banco no tempo 5200
+Caixa 0 esta livre
+Cliente que chegou no horario 4900 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 4910 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5210s
+Cliente entrou no banco no tempo 5210
+
+Momento 5220s
+Cliente entrou no banco no tempo 5220
+Caixa 1 esta livre
+Cliente que chegou no horario 4920 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5230s
+Cliente entrou no banco no tempo 5230
+
+Momento 5240s
+Cliente entrou no banco no tempo 5240
+Caixa 0 esta livre
+Cliente que chegou no horario 4930 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5250s
+Cliente entrou no banco no tempo 5250
+
+Momento 5260s
+Cliente entrou no banco no tempo 5260
+Caixa 2 esta livre
+Cliente que chegou no horario 4950 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5270s
+Cliente entrou no banco no tempo 5270
+
+Momento 5280s
+Cliente entrou no banco no tempo 5280
+Caixa 1 esta livre
+Cliente que chegou no horario 4960 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5290s
+Cliente entrou no banco no tempo 5290
+
+Momento 5300s
+Caixa 0 esta livre
+Cliente que chegou no horario 4980 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5310s
+Cliente entrou no banco no tempo 5310
+Caixa 2 esta livre
+Cliente que chegou no horario 5000 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5320s
+
+Momento 5330s
+Caixa 1 esta livre
+Cliente que chegou no horario 5010 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5340s
+Cliente entrou no banco no tempo 5340
+Caixa 0 esta livre
+Cliente que chegou no horario 5040 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5350s
+Cliente entrou no banco no tempo 5350
+
+Momento 5360s
+Cliente entrou no banco no tempo 5360
+Caixa 0 esta livre
+Cliente que chegou no horario 5060 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 5080 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5370s
+Cliente entrou no banco no tempo 5370
+Caixa 1 esta livre
+Cliente que chegou no horario 5090 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5380s
+Cliente entrou no banco no tempo 5380
+
+Momento 5390s
+Caixa 1 esta livre
+Cliente que chegou no horario 5100 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5400s
+Cliente entrou no banco no tempo 5400
+Caixa 0 esta livre
+Cliente que chegou no horario 5120 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 5130 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5410s
+
+Momento 5420s
+Cliente entrou no banco no tempo 5420
+
+Momento 5430s
+Cliente entrou no banco no tempo 5430
+Caixa 0 esta livre
+Cliente que chegou no horario 5140 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5440s
+Cliente entrou no banco no tempo 5440
+Caixa 1 esta livre
+Cliente que chegou no horario 5160 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5450s
+Cliente entrou no banco no tempo 5450
+
+Momento 5460s
+Caixa 1 esta livre
+Cliente que chegou no horario 5170 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 5190 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5470s
+Cliente entrou no banco no tempo 5470
+
+Momento 5480s
+Cliente entrou no banco no tempo 5480
+Caixa 0 esta livre
+Cliente que chegou no horario 5200 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5490s
+Caixa 1 esta livre
+Cliente que chegou no horario 5210 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5500s
+Cliente entrou no banco no tempo 5500
+Caixa 2 esta livre
+Cliente que chegou no horario 5220 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5510s
+Cliente entrou no banco no tempo 5510
+Caixa 0 esta livre
+Cliente que chegou no horario 5230 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5520s
+Cliente entrou no banco no tempo 5520
+Caixa 1 esta livre
+Cliente que chegou no horario 5240 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 5250 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5530s
+Cliente entrou no banco no tempo 5530
+
+Momento 5540s
+Cliente entrou no banco no tempo 5540
+
+Momento 5550s
+
+Momento 5560s
+Cliente entrou no banco no tempo 5560
+
+Momento 5570s
+Cliente entrou no banco no tempo 5570
+Caixa 0 esta livre
+Cliente que chegou no horario 5260 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 5270 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5580s
+Caixa 2 esta livre
+Cliente que chegou no horario 5280 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5590s
+Cliente entrou no banco no tempo 5590
+
+Momento 5600s
+Caixa 0 esta livre
+Cliente que chegou no horario 5290 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 5310 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5610s
+
+Momento 5620s
+Cliente entrou no banco no tempo 5620
+Caixa 2 esta livre
+Cliente que chegou no horario 5340 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5630s
+Cliente entrou no banco no tempo 5630
+
+Momento 5640s
+Cliente entrou no banco no tempo 5640
+Caixa 2 esta livre
+Cliente que chegou no horario 5350 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5650s
+Cliente entrou no banco no tempo 5650
+Caixa 1 esta livre
+Cliente que chegou no horario 5360 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5660s
+Cliente entrou no banco no tempo 5660
+Caixa 0 esta livre
+Cliente que chegou no horario 5370 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5670s
+Cliente entrou no banco no tempo 5670
+Caixa 1 esta livre
+Cliente que chegou no horario 5380 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5680s
+Cliente entrou no banco no tempo 5680
+Caixa 2 esta livre
+Cliente que chegou no horario 5400 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5690s
+
+Momento 5700s
+Cliente entrou no banco no tempo 5700
+Caixa 0 esta livre
+Cliente que chegou no horario 5420 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5710s
+Cliente entrou no banco no tempo 5710
+Caixa 1 esta livre
+Cliente que chegou no horario 5430 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5720s
+Cliente entrou no banco no tempo 5720
+Caixa 2 esta livre
+Cliente que chegou no horario 5440 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 5730s
+
+Momento 5740s
+
+Momento 5750s
+Cliente entrou no banco no tempo 5750
+Caixa 0 esta livre
+Cliente que chegou no horario 5450 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5760s
+Cliente entrou no banco no tempo 5760
+Caixa 1 esta livre
+Cliente que chegou no horario 5470 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5770s
+Cliente entrou no banco no tempo 5770
+Caixa 2 esta livre
+Cliente que chegou no horario 5480 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5780s
+Cliente entrou no banco no tempo 5780
+Caixa 1 esta livre
+Cliente que chegou no horario 5500 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5790s
+Cliente entrou no banco no tempo 5790
+Caixa 0 esta livre
+Cliente que chegou no horario 5510 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5800s
+Cliente entrou no banco no tempo 5800
+
+Momento 5810s
+Cliente entrou no banco no tempo 5810
+Caixa 1 esta livre
+Cliente que chegou no horario 5520 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5820s
+
+Momento 5830s
+Cliente entrou no banco no tempo 5830
+Caixa 0 esta livre
+Cliente que chegou no horario 5530 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 5540 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5840s
+Caixa 1 esta livre
+Cliente que chegou no horario 5560 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5850s
+
+Momento 5860s
+Cliente entrou no banco no tempo 5860
+Caixa 0 esta livre
+Cliente que chegou no horario 5570 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 5590 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5870s
+Cliente entrou no banco no tempo 5870
+Caixa 2 esta livre
+Cliente que chegou no horario 5620 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5880s
+Cliente entrou no banco no tempo 5880
+Caixa 0 esta livre
+Cliente que chegou no horario 5630 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5890s
+Cliente entrou no banco no tempo 5890
+
+Momento 5900s
+Caixa 1 esta livre
+Cliente que chegou no horario 5640 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 5910s
+Cliente entrou no banco no tempo 5910
+Caixa 0 esta livre
+Cliente que chegou no horario 5650 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 5920s
+Caixa 1 esta livre
+Cliente que chegou no horario 5660 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 5930s
+Cliente entrou no banco no tempo 5930
+Caixa 2 esta livre
+Cliente que chegou no horario 5670 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5940s
+Cliente entrou no banco no tempo 5940
+Caixa 0 esta livre
+Cliente que chegou no horario 5680 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5950s
+Cliente entrou no banco no tempo 5950
+
+Momento 5960s
+Cliente entrou no banco no tempo 5960
+Caixa 1 esta livre
+Cliente que chegou no horario 5700 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 5970s
+Cliente entrou no banco no tempo 5970
+
+Momento 5980s
+Cliente entrou no banco no tempo 5980
+
+Momento 5990s
+Cliente entrou no banco no tempo 5990
+Caixa 2 esta livre
+Cliente que chegou no horario 5710 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6000s
+Caixa 0 esta livre
+Cliente que chegou no horario 5720 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6010s
+Cliente entrou no banco no tempo 6010
+
+Momento 6020s
+Cliente entrou no banco no tempo 6020
+Caixa 1 esta livre
+Cliente que chegou no horario 5750 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 5760 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6030s
+Cliente entrou no banco no tempo 6030
+Caixa 0 esta livre
+Cliente que chegou no horario 5770 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6040s
+Cliente entrou no banco no tempo 6040
+
+Momento 6050s
+Caixa 0 esta livre
+Cliente que chegou no horario 5780 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6060s
+Cliente entrou no banco no tempo 6060
+Caixa 1 esta livre
+Cliente que chegou no horario 5790 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6070s
+Cliente entrou no banco no tempo 6070
+Caixa 2 esta livre
+Cliente que chegou no horario 5800 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6080s
+Caixa 0 esta livre
+Cliente que chegou no horario 5810 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6090s
+Cliente entrou no banco no tempo 6090
+Caixa 1 esta livre
+Cliente que chegou no horario 5830 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6100s
+Cliente entrou no banco no tempo 6100
+Caixa 0 esta livre
+Cliente que chegou no horario 5860 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6110s
+Cliente entrou no banco no tempo 6110
+
+Momento 6120s
+Cliente entrou no banco no tempo 6120
+Caixa 2 esta livre
+Cliente que chegou no horario 5870 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6130s
+Cliente entrou no banco no tempo 6130
+
+Momento 6140s
+Cliente entrou no banco no tempo 6140
+Caixa 2 esta livre
+Cliente que chegou no horario 5880 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6150s
+Cliente entrou no banco no tempo 6150
+Caixa 1 esta livre
+Cliente que chegou no horario 5890 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6160s
+Caixa 0 esta livre
+Cliente que chegou no horario 5910 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 5930 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6170s
+Cliente entrou no banco no tempo 6170
+Caixa 1 esta livre
+Cliente que chegou no horario 5940 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6180s
+Cliente entrou no banco no tempo 6180
+
+Momento 6190s
+Cliente entrou no banco no tempo 6190
+
+Momento 6200s
+Cliente entrou no banco no tempo 6200
+
+Momento 6210s
+Cliente entrou no banco no tempo 6210
+
+Momento 6220s
+Cliente entrou no banco no tempo 6220
+Caixa 0 esta livre
+Cliente que chegou no horario 5950 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 5960 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 5970 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6230s
+
+Momento 6240s
+Cliente entrou no banco no tempo 6240
+Caixa 1 esta livre
+Cliente que chegou no horario 5980 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6250s
+Cliente entrou no banco no tempo 6250
+Caixa 2 esta livre
+Cliente que chegou no horario 5990 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6260s
+Cliente entrou no banco no tempo 6260
+
+Momento 6270s
+Cliente entrou no banco no tempo 6270
+
+Momento 6280s
+Caixa 0 esta livre
+Cliente que chegou no horario 6010 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 6020 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6290s
+Cliente entrou no banco no tempo 6290
+
+Momento 6300s
+Caixa 2 esta livre
+Cliente que chegou no horario 6030 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6310s
+Cliente entrou no banco no tempo 6310
+Caixa 0 esta livre
+Cliente que chegou no horario 6040 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6320s
+Caixa 1 esta livre
+Cliente que chegou no horario 6060 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6070 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6330s
+
+Momento 6340s
+Cliente entrou no banco no tempo 6340
+Caixa 0 esta livre
+Cliente que chegou no horario 6090 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6350s
+Cliente entrou no banco no tempo 6350
+
+Momento 6360s
+Cliente entrou no banco no tempo 6360
+Caixa 0 esta livre
+Cliente que chegou no horario 6100 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 6110 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6120 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6370s
+Cliente entrou no banco no tempo 6370
+
+Momento 6380s
+Caixa 2 esta livre
+Cliente que chegou no horario 6130 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6390s
+Cliente entrou no banco no tempo 6390
+
+Momento 6400s
+Cliente entrou no banco no tempo 6400
+
+Momento 6410s
+Cliente entrou no banco no tempo 6410
+
+Momento 6420s
+Cliente entrou no banco no tempo 6420
+Caixa 0 esta livre
+Cliente que chegou no horario 6140 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 6150 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6430s
+Caixa 2 esta livre
+Cliente que chegou no horario 6170 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6440s
+
+Momento 6450s
+Caixa 2 esta livre
+Cliente que chegou no horario 6180 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6460s
+Cliente entrou no banco no tempo 6460
+
+Momento 6470s
+Cliente entrou no banco no tempo 6470
+Caixa 2 esta livre
+Cliente que chegou no horario 6190 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6480s
+Cliente entrou no banco no tempo 6480
+Caixa 0 esta livre
+Cliente que chegou no horario 6200 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 6210 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6490s
+Cliente entrou no banco no tempo 6490
+
+Momento 6500s
+
+Momento 6510s
+Cliente entrou no banco no tempo 6510
+Caixa 2 esta livre
+Cliente que chegou no horario 6220 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6520s
+Caixa 1 esta livre
+Cliente que chegou no horario 6240 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6530s
+Cliente entrou no banco no tempo 6530
+Caixa 2 esta livre
+Cliente que chegou no horario 6250 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6540s
+Cliente entrou no banco no tempo 6540
+Caixa 0 esta livre
+Cliente que chegou no horario 6260 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6550s
+Cliente entrou no banco no tempo 6550
+Caixa 1 esta livre
+Cliente que chegou no horario 6270 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6560s
+Cliente entrou no banco no tempo 6560
+
+Momento 6570s
+Cliente entrou no banco no tempo 6570
+
+Momento 6580s
+Cliente entrou no banco no tempo 6580
+Caixa 2 esta livre
+Cliente que chegou no horario 6290 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6590s
+Cliente entrou no banco no tempo 6590
+
+Momento 6600s
+Cliente entrou no banco no tempo 6600
+Caixa 0 esta livre
+Cliente que chegou no horario 6310 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6610s
+Cliente entrou no banco no tempo 6610
+Caixa 1 esta livre
+Cliente que chegou no horario 6340 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6620s
+Caixa 2 esta livre
+Cliente que chegou no horario 6350 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6630s
+Cliente entrou no banco no tempo 6630
+Caixa 0 esta livre
+Cliente que chegou no horario 6360 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6640s
+Cliente entrou no banco no tempo 6640
+Caixa 2 esta livre
+Cliente que chegou no horario 6370 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6650s
+Cliente entrou no banco no tempo 6650
+Caixa 0 esta livre
+Cliente que chegou no horario 6390 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6660s
+Cliente entrou no banco no tempo 6660
+Caixa 1 esta livre
+Cliente que chegou no horario 6400 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6410 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6670s
+Cliente entrou no banco no tempo 6670
+
+Momento 6680s
+Cliente entrou no banco no tempo 6680
+
+Momento 6690s
+Cliente entrou no banco no tempo 6690
+
+Momento 6700s
+Cliente entrou no banco no tempo 6700
+Caixa 0 esta livre
+Cliente que chegou no horario 6420 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 6460 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6710s
+Cliente entrou no banco no tempo 6710
+
+Momento 6720s
+Cliente entrou no banco no tempo 6720
+Caixa 2 esta livre
+Cliente que chegou no horario 6470 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6730s
+Cliente entrou no banco no tempo 6730
+Caixa 1 esta livre
+Cliente que chegou no horario 6480 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6740s
+Caixa 2 esta livre
+Cliente que chegou no horario 6490 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6750s
+Cliente entrou no banco no tempo 6750
+
+Momento 6760s
+Cliente entrou no banco no tempo 6760
+Caixa 0 esta livre
+Cliente que chegou no horario 6510 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6770s
+Cliente entrou no banco no tempo 6770
+Caixa 1 esta livre
+Cliente que chegou no horario 6530 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6780s
+Cliente entrou no banco no tempo 6780
+
+Momento 6790s
+Cliente entrou no banco no tempo 6790
+
+Momento 6800s
+Cliente entrou no banco no tempo 6800
+Caixa 1 esta livre
+Cliente que chegou no horario 6540 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6550 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 6810s
+Cliente entrou no banco no tempo 6810
+Caixa 0 esta livre
+Cliente que chegou no horario 6560 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6820s
+Cliente entrou no banco no tempo 6820
+
+Momento 6830s
+Cliente entrou no banco no tempo 6830
+Caixa 0 esta livre
+Cliente que chegou no horario 6570 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6840s
+Cliente entrou no banco no tempo 6840
+
+Momento 6850s
+Cliente entrou no banco no tempo 6850
+Caixa 1 esta livre
+Cliente que chegou no horario 6580 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6590 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 6860s
+Cliente entrou no banco no tempo 6860
+
+Momento 6870s
+Cliente entrou no banco no tempo 6870
+Caixa 0 esta livre
+Cliente que chegou no horario 6600 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 6880s
+Cliente entrou no banco no tempo 6880
+
+Momento 6890s
+Cliente entrou no banco no tempo 6890
+Caixa 2 esta livre
+Cliente que chegou no horario 6610 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6900s
+Cliente entrou no banco no tempo 6900
+Caixa 0 esta livre
+Cliente que chegou no horario 6630 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6910s
+Cliente entrou no banco no tempo 6910
+Caixa 1 esta livre
+Cliente que chegou no horario 6640 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6650 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6920s
+
+Momento 6930s
+Cliente entrou no banco no tempo 6930
+
+Momento 6940s
+Cliente entrou no banco no tempo 6940
+
+Momento 6950s
+
+Momento 6960s
+Cliente entrou no banco no tempo 6960
+Caixa 0 esta livre
+Cliente que chegou no horario 6660 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 6970s
+Caixa 1 esta livre
+Cliente que chegou no horario 6670 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6680 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 6980s
+Cliente entrou no banco no tempo 6980
+
+Momento 6990s
+Cliente entrou no banco no tempo 6990
+Caixa 2 esta livre
+Cliente que chegou no horario 6690 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7000s
+Cliente entrou no banco no tempo 7000
+
+Momento 7010s
+Cliente entrou no banco no tempo 7010
+
+Momento 7020s
+Cliente entrou no banco no tempo 7020
+Caixa 0 esta livre
+Cliente que chegou no horario 6700 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 6710 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 7030s
+Cliente entrou no banco no tempo 7030
+
+Momento 7040s
+Cliente entrou no banco no tempo 7040
+Caixa 2 esta livre
+Cliente que chegou no horario 6720 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 7050s
+Cliente entrou no banco no tempo 7050
+
+Momento 7060s
+Cliente entrou no banco no tempo 7060
+
+Momento 7070s
+Cliente entrou no banco no tempo 7070
+Caixa 0 esta livre
+Cliente que chegou no horario 6730 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 7080s
+Caixa 1 esta livre
+Cliente que chegou no horario 6750 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6760 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 7090s
+Cliente entrou no banco no tempo 7090
+
+Momento 7100s
+Cliente entrou no banco no tempo 7100
+Caixa 0 esta livre
+Cliente que chegou no horario 6770 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7110s
+Cliente entrou no banco no tempo 7110
+Caixa 1 esta livre
+Cliente que chegou no horario 6780 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7120s
+Cliente entrou no banco no tempo 7120
+
+Momento 7130s
+
+Momento 7140s
+Caixa 2 esta livre
+Cliente que chegou no horario 6790 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 7150s
+Caixa 0 esta livre
+Cliente que chegou no horario 6800 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 7160s
+Cliente entrou no banco no tempo 7160
+Caixa 1 esta livre
+Cliente que chegou no horario 6810 esta indo ao caixa 1
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 7170s
+Cliente entrou no banco no tempo 7170
+Caixa 0 esta livre
+Cliente que chegou no horario 6820 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 7180s
+Cliente entrou no banco no tempo 7180
+Caixa 1 esta livre
+Cliente que chegou no horario 6830 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6840 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 7190s
+Cliente entrou no banco no tempo 7190
+
+Momento 7200s
+
+Momento 7210s
+Caixa 0 esta livre
+Cliente que chegou no horario 6850 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 6860 esta indo ao caixa 2
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 7220s
+Caixa 1 esta livre
+Cliente que chegou no horario 6870 esta indo ao caixa 1
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 7230s
+
+Momento 7240s
+Caixa 0 esta livre
+Cliente que chegou no horario 6880 esta indo ao caixa 0
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 7250s
+Caixa 2 esta livre
+Cliente que chegou no horario 6890 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 7260s
+
+Momento 7270s
+Caixa 0 esta livre
+Cliente que chegou no horario 6900 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7280s
+Caixa 1 esta livre
+Cliente que chegou no horario 6910 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 7290s
+
+Momento 7300s
+
+Momento 7310s
+Caixa 2 esta livre
+Cliente que chegou no horario 6930 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 7320s
+Caixa 0 esta livre
+Cliente que chegou no horario 6940 esta indo ao caixa 0
+Cliente escolheu ver seu saldo que levou 10 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 6960 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7330s
+Caixa 2 esta livre
+Cliente que chegou no horario 6980 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 7340s
+Caixa 0 esta livre
+Cliente que chegou no horario 6990 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7350s
+
+Momento 7360s
+
+Momento 7370s
+Caixa 1 esta livre
+Cliente que chegou no horario 7000 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 7380s
+
+Momento 7390s
+Caixa 0 esta livre
+Cliente que chegou no horario 7010 esta indo ao caixa 0
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+Caixa 2 esta livre
+Cliente que chegou no horario 7020 esta indo ao caixa 2
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 7400s
+Caixa 1 esta livre
+Cliente que chegou no horario 7030 esta indo ao caixa 1
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 7410s
+
+Momento 7420s
+
+Momento 7430s
+Caixa 0 esta livre
+Cliente que chegou no horario 7040 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+Caixa 1 esta livre
+Cliente que chegou no horario 7050 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 7440s
+
+Momento 7450s
+Caixa 2 esta livre
+Cliente que chegou no horario 7060 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7460s
+
+Momento 7470s
+Caixa 1 esta livre
+Cliente que chegou no horario 7070 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7480s
+Caixa 0 esta livre
+Cliente que chegou no horario 7090 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7490s
+
+Momento 7500s
+Caixa 2 esta livre
+Cliente que chegou no horario 7100 esta indo ao caixa 2
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7510s
+
+Momento 7520s
+Caixa 1 esta livre
+Cliente que chegou no horario 7110 esta indo ao caixa 1
+Cliente escolheu fazer uma aplicacao que levou 30 segundos
+
+Momento 7530s
+Caixa 0 esta livre
+Cliente que chegou no horario 7120 esta indo ao caixa 0
+Cliente escolheu fazer um extrato mensal que levou 50 segundos
+
+Momento 7540s
+
+Momento 7550s
+Caixa 2 esta livre
+Cliente que chegou no horario 7160 esta indo ao caixa 2
+Cliente escolheu fazer um saque que levou 20 segundos
+
+Momento 7560s
+Caixa 1 esta livre
+Cliente que chegou no horario 7170 esta indo ao caixa 1
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
+
+Momento 7570s
+
+Momento 7580s
+Caixa 2 esta livre
+Cliente que chegou no horario 7180 esta indo ao caixa 2
+Cliente escolheu ver seu saldo que levou 10 segundos
+
+Momento 7590s
+Caixa 0 esta livre
+Cliente que chegou no horario 7190 esta indo ao caixa 0
+Cliente escolheu fazer um extrato semanal que levou 40 segundos
